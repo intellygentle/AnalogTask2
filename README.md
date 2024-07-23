@@ -65,6 +65,9 @@ This repo is for Analog watch portal tasks
 copy the second address that starts with "an"
 ![1000006037](https://github.com/user-attachments/assets/81b8eced-6c56-44ef-91bd-52737dff2b7b)
 ## go to discord and paste this 👇 replace the address with your address
-```solidity !faucet an5b2AMkqfsj1Lowr2ECWuw6JpSKFg6APsz4GVGNF8uhhCwfM ```
+## !faucet yourwalletaddressThatStartsWithAn
+![1000006042](https://github.com/user-attachments/assets/7616bbc5-52ea-40ca-ab25-c195b03937da)
+## take note sometimes it shows error
+![1000006044](https://github.com/user-attachments/assets/5f18da80-8641-4a96-86e8-f73d22791686)
 
 
