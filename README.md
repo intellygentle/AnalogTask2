@@ -70,4 +70,12 @@ copy the second address that starts with "an"
 ## take note sometimes it shows error
 ![1000006044](https://github.com/user-attachments/assets/5f18da80-8641-4a96-86e8-f73d22791686)
 
+## now follow steps below
+![1000006046](https://github.com/user-attachments/assets/80e3b72e-a1fb-49a7-8133-9305fa676957)
+![1000006048](https://github.com/user-attachments/assets/3618e86b-3b73-4626-8dfe-66505d2502bb)
+## you have funded your account. let's go fund a view now
+![1000006050](https://github.com/user-attachments/assets/99b63dfb-a416-4c0b-98f8-538083f06f3b)
+![1000006052](https://github.com/user-attachments/assets/43bfc3bc-9c0e-4c13-af60-106fe34a1a50)
+![1000006054](https://github.com/user-attachments/assets/561aec20-0a55-4c41-a47e-d98b951c97fc)
+![1000006056](https://github.com/user-attachments/assets/87694abb-48fa-4c47-b14b-8c3bc2a26e8f)
 
