@@ -43,6 +43,19 @@ This repo is for Analog watch portal tasks
 ## 1) error of functions: some functions have errors in their smart contract just leave them
 ## 2) error of an existing deployment: solve this by adding other functions from other contracts to make your deployment unique
 ## 3) errror of inputs: solve this by choosing functions that doesn't require arguments or input
+![1000006015](https://github.com/user-attachments/assets/7b639789-6468-4e40-901f-97178ac8e0af)
+![1000006017](https://github.com/user-attachments/assets/0e94b28d-6ac2-4a5a-bf6c-c85a58c93269)
+![1000006019](https://github.com/user-attachments/assets/9e0d7442-81d8-4935-b268-32c1f5f88da4)
+## however, input errors are easy to solve. if it asked for address put your metamask and if it asked for uint put any number there
+![1000006021](https://github.com/user-attachments/assets/ba7a99e0-edbb-4b64-801c-134bd4ea1b1f)
+# for easiness, look for the following functions and chosose them
+## balanceOf(requires address), maxSupply, totalmint, tokenUri(requires uint), ownerOf(requires uint), feeGrowth, liquidity, getPairs. if anyone of them you chose already exists combine it with another one(s) from a different contract.
+## the example below is a combination of 3 different functions from 3 different contracts.
+![1000006023](https://github.com/user-attachments/assets/839d005c-4ed3-4e35-93f7-ad4ecddac190)
 
-
+## then continue when the console brings a green check
+![1000006025](https://github.com/user-attachments/assets/96f3d784-a86b-4aa4-bd52-caae5272a742)
+![1000006027](https://github.com/user-attachments/assets/93681451-62e1-483c-beab-b4ddbcf76fec)
+![1000006031](https://github.com/user-attachments/assets/6909557a-06e4-459a-a13c-4c5b47c88783)
+![1000006033](https://github.com/user-attachments/assets/514576ea-6a19-43e6-88c3-4eff507a9d8a)
 
