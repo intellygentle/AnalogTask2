@@ -10,3 +10,18 @@ This repo is for Analog watch portal tasks
 ## at the library we'll see deployed smart contracts and deployed views 
 ## at the view builder we'll deploy our view
 ## at the smart contract we'll list our smart contract 
+## at the profile you can copy your "an" addy and request faucet on discord then deposit to the analog page
+
+# Listing a Smartcontract
+## use your smart contract you deployed for the gmp task. Either the sepolia or the shibuya one
+![1000005988](https://github.com/user-attachments/assets/03dfe0e1-909f-49e1-b183-4b4b83d530c7)
+## go to the watch portal https://watch.testnet.analog.one/#/ and click on smart contract 
+![1000005990](https://github.com/user-attachments/assets/0265cf81-0b3f-483d-81c6-4e5a960c365e)
+## paste your smart contract, give it a name, select the network, give it a tag and add description
+![1000005992](https://github.com/user-attachments/assets/49b63ecf-6b95-49ea-a406-3102ed21a891)
+## after clicking on add functions, it will ask you for ABI
+## go to the page where you verified your smart contract and scroll down a bit
+![1000005996](https://github.com/user-attachments/assets/c0afe9cf-da7c-4914-9f80-b916670d008f)
+
+
+
