@@ -38,7 +38,11 @@ This repo is for Analog watch portal tasks
 ## 1) you select a smartcontract and it will drop down its list of functions 
 ## 2) you select a function
 ## 3) check the output of the function. if it requires address, paste your metamask wallet address there and if it requires int or uint just put a number there. if it doesn't require anything like the one above, just leave it.
-
+# Errors
+## there are 3 kinds of errors you may face while building view
+## 1) error of functions: some functions have errors in their smart contract just leave them
+## 2) error of an existing deployment: solve this by adding other functions from other contracts to make your deployment unique
+## 3) errror of inputs: solve this by choosing functions that doesn't require arguments or input
 
 
 
