@@ -37,7 +37,8 @@ This repo is for Analog watch portal tasks
 ![1000006007](https://github.com/user-attachments/assets/d94d7ed3-f989-47bf-84ca-a50e8f8e2394)
 ## 1) you select a smartcontract and it will drop down its list of functions 
 ## 2) you select a function
-## 3) check the output of the function. if it requires address, paste your metamask wallet address there and if it requires int or uint just put a number there.
+## 3) check the output of the function. if it requires address, paste your metamask wallet address there and if it requires int or uint just put a number there. if it doesn't require anything like the one above, just leave it.
+
 
 
 
