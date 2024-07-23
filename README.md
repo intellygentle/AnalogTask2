@@ -29,6 +29,15 @@ This repo is for Analog watch portal tasks
 ## that's all for listing smart contract just wait for some hours and check your point.
 
 # Now let's Build a view
+## take note of these three tabs on the interface
+![1000006005](https://github.com/user-attachments/assets/8fef2cbb-31d7-4e74-a98f-f6397859ca20)
+## under smart contract are lists of deployed smart contracts that anyone can create a view from
+## under your query is where the functions you selected will show
+## under console is where you test the functions you've selected befor deploying the view
+![1000006007](https://github.com/user-attachments/assets/d94d7ed3-f989-47bf-84ca-a50e8f8e2394)
+## 1) you select a smartcontract and it will drop down its list of functions 
+## 2) you select a function
+## 3) check the output of the function. if it requires address, paste your metamask wallet address there and if it requires int or uint just put a number there.
 
 
 
