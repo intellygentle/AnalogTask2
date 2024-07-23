@@ -22,6 +22,13 @@ This repo is for Analog watch portal tasks
 ## after clicking on add functions, it will ask you for ABI
 ## go to the page where you verified your smart contract and scroll down a bit
 ![1000005996](https://github.com/user-attachments/assets/c0afe9cf-da7c-4914-9f80-b916670d008f)
+## paste the ABI code and follow the screenshots below to complete the listing task
+![1000005998](https://github.com/user-attachments/assets/9ceb0f97-8b5c-4dc2-9432-91b4e9de5032)
+![1000006001](https://github.com/user-attachments/assets/991e8e61-3080-491c-8a11-5dc6903436d1)
+![1000006003](https://github.com/user-attachments/assets/bf50de43-d15e-40ec-a815-3bc676dbaac1)
+## that's all for listing smart contract just wait for some hours and check your point.
+
+# Now let's Build a view
 
 
 
