@@ -60,3 +60,11 @@ This repo is for Analog watch portal tasks
 ![1000006033](https://github.com/user-attachments/assets/514576ea-6a19-43e6-88c3-4eff507a9d8a)
 
 # Lets Fund View
+## locate your profile icon and click on the dropdown beside it
+![1000006035](https://github.com/user-attachments/assets/95fa5790-a886-4fb2-a015-f41bd0639b03)
+copy the second address that starts with "an"
+![1000006037](https://github.com/user-attachments/assets/81b8eced-6c56-44ef-91bd-52737dff2b7b)
+## go to discord and paste this 👇 replace the address with your address
+```solidity !faucet an5b2AMkqfsj1Lowr2ECWuw6JpSKFg6APsz4GVGNF8uhhCwfM ```
+
+
