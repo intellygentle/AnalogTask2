@@ -79,3 +79,4 @@ copy the second address that starts with "an"
 ![1000006054](https://github.com/user-attachments/assets/561aec20-0a55-4c41-a47e-d98b951c97fc)
 ![1000006056](https://github.com/user-attachments/assets/87694abb-48fa-4c47-b14b-8c3bc2a26e8f)
 
+# And that's all for analog testnet now.
